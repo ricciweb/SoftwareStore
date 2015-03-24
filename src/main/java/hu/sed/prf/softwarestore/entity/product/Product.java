@@ -35,7 +35,7 @@ public class Product implements Serializable {
 	private String description;
 
 	// TODO: It would be nice to have a picture for the product
-	//private String picturePath;
+	private String picturePath;
 
 	public Product() {
 	}
